@@ -1,0 +1,10 @@
+1001,aa,qq
+1002,bb,ww
+1003,cc,ee
+1004,dd,rr
+1005,ee,tt
+1006,ee,rr
+1007,ee,rr
+1008,dd,ee
+1009,rr,tt
+1010,pp,dd
